@@ -1,42 +1,44 @@
-# 📊 Sales Dashboard Assignment
+📊 Excel for Data Analysis — Assignments & Solutions
+📌 Overview
+This repository contains PwSkills Excel assignments with complete, well-structured solutions. Each file focuses on a specific Excel capability used in real-world data analysis—from logical and lookup functions to pivot tables, dashboards, and data validation.
 
-Welcome to my Excel Data Visualization project! This project turns a simple sales list into an interactive visual dashboard.
+The purpose is simple: demonstrate practical Excel skills for cleaning, analyzing, and visualizing data, not just theory.
 
----
+🚀 Skills & Concepts Covered
+Logical Functions: IF, AND, OR, NOT
 
-## ✨ What's Inside?
-This Excel file helps business owners track their sales performance instantly. 
+Lookup & Reference: VLOOKUP, HLOOKUP, INDEX, MATCH
 
-* **Quick Insights:** See Total Revenue, Profit, and Units Sold at a glance.
-* **Regional Trends:** Compare performance across **East, West, North, and South**.
-* **Top Products:** Find out which items are making the most money.
-* **Profit Alerts:** Highlights sales that need attention (Profit < $1000).
+Pivot Tables & Slicers: Grouping, filtering, timelines, summarization
 
----
+Text Functions: LEFT, RIGHT, MID, CONCAT, and related functions
 
-## 🛠️ Interactive Features
-I have added **Slicers (Filters)** to make this dashboard interactive. You can filter the data by:
-1.  📅 **Date**
-2.  📍 **Region**
-3.  👤 **Salesperson**
+Data Validation:
 
----
+Whole Number
+Decimal
+List
+Date & Time
+Text Length
+Custom Formula
+Data Visualization:
 
-## 📂 Quick Start
-1.  **Download** the file: `Advanced_Data_Visualization_Assignment_dpp.xlsx`.
-2.  **Open** it in Microsoft Excel.
-3.  Go to the **Dashboard** tab and start clicking the filters to see the charts change!
+Pivot tables
+Charts
+Slicers
+Interactive dashboards
+📖 How to Use
+Open the Excel files using Microsoft Excel (desktop recommended).
+Review each assignment alongside its solution.
+Use the files for learning, revision, or practice.
+🎯 Learning Outcomes
+Convert raw datasets into meaningful insights.
+Apply Excel’s advanced features for structured analysis.
+Build professional, interactive dashboards.
+Improve accuracy in formula writing and data manipulation.
+Enforce data integrity using validation rules.
+👤 Author
+Mohd Sharib  Focused on Excel dashboards, data visualization, and building clear, user-friendly analysis tools.
 
----
-
-## 👨‍💻 Skills I Used
-- [x] Data Cleaning
-- [x] Pivot Tables & Charts
-- [x] Conditional Formatting
-- [x] Dashboard Design
-
----
-
-## 🔗 Connect with Me
-Created by **Sharib Azmi**. 
-Check out my other projects on [GitHub](https://github.com/sharibzmiana)!
+📜 License
+This repository is intended for educational use. You may reference or adapt the content with proper attribution.
