@@ -1,44 +1,50 @@
-📊 Excel for Data Analysis — Assignments & Solutions
-📌 Overview
-This repository contains PwSkills Excel assignments with complete, well-structured solutions. Each file focuses on a specific Excel capability used in real-world data analysis—from logical and lookup functions to pivot tables, dashboards, and data validation.
+# 📊 Excel for Data Analysis — Assignments & Solutions
 
-The purpose is simple: demonstrate practical Excel skills for cleaning, analyzing, and visualizing data, not just theory.
+Welcome to my Excel portfolio! This repository contains a collection of **PwSkills assignments** featuring complete, well-structured solutions. Each file is designed to showcase real-world data analysis capabilities.
 
-🚀 Skills & Concepts Covered
-Logical Functions: IF, AND, OR, NOT
+---
 
-Lookup & Reference: VLOOKUP, HLOOKUP, INDEX, MATCH
+## 📌 Overview
+The goal of this repository is to demonstrate practical Excel skills for **cleaning, analyzing, and visualizing data**. Instead of just theory, these files show how to solve business problems using structured logic and interactive tools.
 
-Pivot Tables & Slicers: Grouping, filtering, timelines, summarization
+## 🚀 Skills & Concepts Covered
 
-Text Functions: LEFT, RIGHT, MID, CONCAT, and related functions
+### 🧩 Logic & Functions
+* **Logical Functions:** `IF`, `AND`, `OR`, `NOT` for decision-making.
+* **Lookup & Reference:** `VLOOKUP`, `HLOOKUP`, `INDEX`, and `MATCH` for data retrieval.
+* **Text Functions:** `LEFT`, `RIGHT`, `MID`, and `CONCAT` for data cleaning.
 
-Data Validation:
+### 📈 Data Management & Integrity
+* **Data Validation:** Ensuring data quality using:
+    * Whole Number / Decimal constraints.
+    * Dropdown Lists.
+    * Date/Time & Text Length restrictions.
+    * Custom Formula validation.
 
-Whole Number
-Decimal
-List
-Date & Time
-Text Length
-Custom Formula
-Data Visualization:
+### 🎨 Visualization & Reporting
+* **Pivot Tables & Slicers:** Grouping, filtering, and timelines.
+* **Interactive Dashboards:** Combining charts and slicers for a dynamic user experience.
 
-Pivot tables
-Charts
-Slicers
-Interactive dashboards
-📖 How to Use
-Open the Excel files using Microsoft Excel (desktop recommended).
-Review each assignment alongside its solution.
-Use the files for learning, revision, or practice.
-🎯 Learning Outcomes
-Convert raw datasets into meaningful insights.
-Apply Excel’s advanced features for structured analysis.
-Build professional, interactive dashboards.
-Improve accuracy in formula writing and data manipulation.
-Enforce data integrity using validation rules.
-👤 Author
-Mohd Sharib  Focused on Excel dashboards, data visualization, and building clear, user-friendly analysis tools.
+---
 
-📜 License
-This repository is intended for educational use. You may reference or adapt the content with proper attribution.
+## 🎯 Learning Outcomes
+* **Data Transformation:** Converting raw datasets into meaningful insights.
+* **Advanced Analysis:** Applying Excel’s high-level features for structured reporting.
+* **UI/UX in Excel:** Building professional, user-friendly dashboards.
+* **Data Integrity:** Enforcing rules to prevent manual data entry errors.
+
+---
+
+## 📖 How to Use
+1.  **Download** the Excel files from this repository.
+2.  **Open** using Microsoft Excel (Desktop version recommended for full functionality).
+3.  **Review** each assignment tab to see the problem statement and the solved solution.
+
+---
+
+## 👤 Author
+**Mohd Sharib** *Focused on Excel dashboards, data visualization, and building clear analysis tools.*
+
+---
+### 📜 License
+This repository is intended for educational use. Feel free to reference or adapt the content with proper attribution.
